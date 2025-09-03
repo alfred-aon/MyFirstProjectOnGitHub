@@ -1,6 +1,7 @@
 ﻿
 Console.WriteLine(":. Mein erstes Projekt auf GitHub .:");
-int x = 1;
-double y = 2.5;
-Console.WriteLine($"Wert von x: {x}");
-Console.WriteLine($"Wert von x: {y}");
+int i = 1;
+int j = 2;
+double k;
+k = (double)i / j;
+Console.WriteLine($"Wert von k: {k}");
