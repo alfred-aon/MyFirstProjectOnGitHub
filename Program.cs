@@ -1,4 +1,8 @@
-﻿
+﻿Console.WriteLine("A");
+Console.WriteLine("B");
+Console.WriteLine("C");
+Console.WriteLine("D");
+
 Console.WriteLine(":. Mein erstes Projekt auf GitHub .:");
 int i = 1;
 int j = 2;
